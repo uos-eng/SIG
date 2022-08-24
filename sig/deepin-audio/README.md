@@ -30,6 +30,7 @@
 ### 加入方法：
 
 1. 在[sig-deepin-audio](https://github.com/deepin-community/sig-deepin-audio/issues)提交issues 说明想加入的原因
+2. 订阅邮件列表 [deepin-audio](https://www.freelists.org/list/deepin-audio)
 
 加入之后会在邮件列表进行公示
 
