@@ -17,7 +17,7 @@
 
 目标：对audio软件包的维护和更新，跟进上游版本以及BUG修复，参与audio上游社区建设等工作,保证维护的及时、安全、可靠。
 
-活动范围: [社区论坛](https://bbs.deepin.org/)[deepin Community](https://github.com/deepin-community/) [GitHub issue](https://github.com/linuxdeepin/developer-center/issues)
+活动范围: [社区论坛](https://bbs.deepin.org/)[deepin Community](https://github.com/deepin-community/) [GitHub issue](https://github.com/linuxdeepin/developer-center/issues)[deepin-audio](https://github.com/deepin-community/sig-deepin-audio)
 
 ## 如何加入
 
@@ -30,7 +30,6 @@
 ### 加入方法：
 
 1. 在[sig-deepin-audio](https://github.com/deepin-community/sig-deepin-audio/issues)提交issues 说明想加入的原因
-2. 订阅邮件列表
 
 加入之后会在邮件列表进行公示
 
